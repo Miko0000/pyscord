@@ -2,3 +2,5 @@ TOKEN
 issues
 __pycache__
 dump.py
+*/*.link
+**/*.link
