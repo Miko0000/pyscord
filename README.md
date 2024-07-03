@@ -1,3 +1,7 @@
+# NOTICE
+This program is currently non-functional, this repository is made with the sole
+purpose of sharing the code
+
 # pyscord
 __This is **NOT** a selfbot program, you need an actual bot account created from
 the developer portal__
